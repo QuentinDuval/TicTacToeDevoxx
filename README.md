@@ -39,4 +39,4 @@ Vous pouvez aller plus loin et découvrir comment bâtir un jeu plus imposant da
 * Thoughts on how to use spec: https://deque.blog/2017/03/14/building-a-clojurescript-game-toughts-on-spec/
 * Implementing the rendering: https://deque.blog/2017/03/18/building-a-clojurescript-game-rendering/
 * How to manage time and state: https://deque.blog/2017/03/21/building-a-clojurescript-game-application-state/
-* How to build an decent AI: Incoming
+* How to build an decent AI: https://deque.blog/2017/03/28/building-a-clojurescript-game-ai/
