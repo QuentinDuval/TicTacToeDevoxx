@@ -7,13 +7,13 @@ http://cfp.devoxx.fr/2017/talk/XHN-2510/Le_fonctionnel_par_la_pratique_:_live_co
 
 ## Intitulé de la présentation
 
-<pre>
 Découvrez la simplicité élégante de la programmation fonctionnelle au travers d’un live coding, en duo, d’un Tic-Tac-Toe web.
 
-45 minutes de code
-4 lignes d’effets de bord
-Un Ctrl-Z en 1 ligne
-Une architecture testable
+* 45 minutes de code
+* 4 lignes d’effets de bord
+* Un Ctrl-Z en 1 ligne
+* Une architecture testable
+
 Nous programmerons en Clojurescript, une variante de Clojure qui transcompile en Javascript.
 
 Durant la présentation, nous expliquerons nos choix de design et d'implémentation. Ce faisant, nous aborderons concrètement plusieurs notions centrales du paradigme fonctionnel. L'universalité de ces concepts les rend utiles dans le monde du développement en général, y compris en entreprise.
@@ -21,7 +21,7 @@ Durant la présentation, nous expliquerons nos choix de design et d'implémentat
 Le code final sera mis à disposition sur GitHub. Nous y ajouterons tout le nécessaire pour vous lancer sur un premier projet.
 
 Aucune connaissance en Clojure ou Clojurescript n'est requise.
-</pre>
+
 
 ## Liens et resources
 
@@ -40,3 +40,11 @@ Vous pouvez aller plus loin et découvrir comment bâtir un jeu plus imposant da
 * Implementing the rendering: https://deque.blog/2017/03/18/building-a-clojurescript-game-rendering/
 * How to manage time and state: https://deque.blog/2017/03/21/building-a-clojurescript-game-application-state/
 * How to build an decent AI: https://deque.blog/2017/03/28/building-a-clojurescript-game-ai/
+
+## Librairies utilisées
+
+Reagent (sur-courche sur React):
+https://reagent-project.github.io
+
+Figwheel (mis à jour temps réel du navigateur web):
+https://github.com/bhauman/lein-figwheel
